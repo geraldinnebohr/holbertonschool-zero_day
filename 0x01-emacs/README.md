@@ -1,0 +1,1 @@
+Solved tasks about Emacs project with different commands to execute.
