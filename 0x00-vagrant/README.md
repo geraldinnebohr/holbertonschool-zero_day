@@ -1,0 +1,1 @@
+The command uname print when I run it without any option.
